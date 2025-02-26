@@ -54,4 +54,4 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Med](https://github.com/isthatmed
